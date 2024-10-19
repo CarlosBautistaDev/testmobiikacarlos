@@ -1,6 +1,6 @@
-# Proyecto de Tienda en Línea
+#test Carlos Bautista
 
-Este es un proyecto de una tienda en línea desarrollado con React Native. La aplicación permite a los usuarios ver una lista de productos, buscar productos y agregar nuevos productos. La aplicación utiliza persistencia local para almacenar los productos.
+Este es un proyecto de prueba tecnica desarrollado con React Native. La aplicación permite a los usuarios ver una lista de productos, buscar productos y agregar nuevos productos. La aplicación utiliza persistencia local para almacenar los productos.
 
 ## Tecnologías Utilizadas
 
